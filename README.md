@@ -22,6 +22,7 @@ Below are a few of the relevant links related to this project.
 ### Youtube Link
 
 Here is the link for the 30 min explanation:
-+  https://www.youtube.com/watch?v=jY89KP-puMc
++  https://www.youtube.com/watch?v=ZmvA0dXnkgU
+
 
 *Note some of the concepts for the live code example were not used in the video due to time limitations, but may still show use of the ideas and themes of the material*
