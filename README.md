@@ -12,8 +12,16 @@ Below is an example graphical representation from which this project is based on
 
 ![mind map of Javascript's role in web dev and some Programming Language fundamentals](mid-term.png)
 
+## Relevant Links
+Below are a few of the relevant links related to this project. 
+
+### Deployment Link
+
++ https://epuer18.github.io/js_example/
+
 ### Youtube Link
 
-Here is the link for the 30 min explanation: 
+Here is the link for the 30 min explanation:
++  https://www.youtube.com/watch?v=jY89KP-puMc
 
 *Note some of the concepts for the live code example were not used in the video due to time limitations, but may still show use of the ideas and themes of the material*
