@@ -1,0 +1,30 @@
+[
+    {
+        "comment": "// print statements",
+        "code": "console.log(\"Venezuela pa'l mundial!!!\")"
+    },
+    {
+        "comment": "// functions!",
+        "code": "function add_one(a) {\n    return a + 1;\n}"
+    },
+    {
+        "comment": "// The imperative way",
+        "code": "let array = [1, 2, 3, 4, 5]\nfor (let i =0; i < array.length; i++) {\n    array[i] += 1;\n}"
+    },
+    {
+        "comment": "// The functional way",
+        "code": "array = array.map(add_one);"
+    },
+    {
+        "comment": "// Anonymous funcs",
+        "code": "array = array.map((a) => {return a + 1;});"
+    },
+    {
+        "comment": "//Reading input",
+        "code": "document.getElementById(\"submitBtn\").addEventListener(\"click\", function () {\n    document.getElementById(\"output\").innerHTML = `Example Output: ` + document.getElementById(\"num\").value;\n})"
+    },
+    {
+        "comment": "// the typing problem",
+        "code": "document.getElementById(\"submitBtn\").addEventListener(\"click\", function () {\n    const val = add_one(document.getElementById(\"num\").value)\n    document.getElementById(\"output\").innerHTML = `Example Output: ` + val;\n})"
+    }
+]
